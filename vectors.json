@@ -1,62 +1,77 @@
 [
   {
-    "name": "Visield",
+    "name": "Blot",
     "traits": {
-      "expressiveHumor": 10,
-      "emotionalSensitivity": 1,
-      "externalWarmth": 10,
-      "socialEnergy": 10,
-      "assertiveness": 4,
-      "emotionalStability": 10,
+      "expressiveHumor": 9,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 7,
+      "socialEnergy": 7,
+      "assertiveness": 6,
+      "emotionalStability": 4,
+      "cynicism": 7,
+      "focusDiscipline": 4,
+      "confidence": 7,
+      "impulsiveness": 6
+    }
+  },
+  {
+    "name": "Boxten",
+    "traits": {
+      "expressiveHumor": 2,
+      "emotionalSensitivity": 9,
+      "externalWarmth": 8,
+      "socialEnergy": 3,
+      "assertiveness": 2,
+      "emotionalStability": 3,
       "cynicism": 4,
       "focusDiscipline": 5,
-      "confidence": 10,
-      "impulsiveness": 4
+      "confidence": 2,
+      "impulsiveness": 2
     }
   },
   {
-    "name": "Paws",
+    "name": "Brightney",
     "traits": {
-      "expressiveHumor": 8
-      "emotionalSensitivity": 7
-      "externalWarmth": 7
-      "socialEnergy": 3
-      "assertiveness": 3
-      "emotionalStability": 5
-      "cynicism": 6
-      "focusDiscipline": 3
-      "confidence": 3
-      "impulsiveness": 8
+      "expressiveHumor": 3,
+      "emotionalSensitivity": 5,
+      "externalWarmth": 8,
+      "socialEnergy": 6,
+      "assertiveness": 7,
+      "emotionalStability": 5,
+      "cynicism": 3,
+      "focusDiscipline": 10,
+      "confidence": 7,
+      "impulsiveness": 2
     }
   },
   {
-    "name": "Testified",
+    "name": "Brusha",
     "traits": {
-      "expressiveHumor": 7
-      "emotionalSensitivity": 2
-      "externalWarmth": 2
-      "socialEnergy": 3
-      "assertiveness": 10
-      "emotionalStability": 8
-      "cynicism": 9
-      "focusDiscipline": 7
-      "confidence": 6
-      "impulsiveness": 4
+      "expressiveHumor": 2,
+      "emotionalSensitivity": 8,
+      "externalWarmth": 4,
+      "socialEnergy": 3,
+      "assertiveness": 7,
+      "emotionalStability": 3,
+      "cynicism": 8,
+      "focusDiscipline": 8,
+      "confidence": 6,
+      "impulsiveness": 3
     }
   },
   {
-    "name": "Faye",
+    "name": "Connie",
     "traits": {
-      "expressiveHumor": 7
-      "emotionalSensitivity": 10
-      "externalWarmth": 5
-      "socialEnergy": 4
-      "assertiveness": 2
-      "emotionalStability": 1
-      "cynicism": 9
-      "focusDiscipline": 2
-      "confidence": 1
-      "impulsiveness": 9
+      "expressiveHumor": 8,
+      "emotionalSensitivity": 5,
+      "externalWarmth": 6,
+      "socialEnergy": 8,
+      "assertiveness": 7,
+      "emotionalStability": 5,
+      "cynicism": 6,
+      "focusDiscipline": 2,
+      "confidence": 8,
+      "impulsiveness": 2
     }
   }
 ]
