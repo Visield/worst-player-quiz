@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Blot",
+    "traits": {
+      "expressiveHumor": 9,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 7,
+      "socialEnergy": 7,
+      "assertiveness": 6,
+      "emotionalStability": 4,
+      "cynicism": 7,
+      "focusDiscipline": 4,
+      "confidence": 7,
+      "impulsiveness": 6
+    }
+  },
+  {
+    "name": "Boxten",
+    "traits": {
+      "expressiveHumor": 2,
+      "emotionalSensitivity": 9,
+      "externalWarmth": 8,
+      "socialEnergy": 3,
+      "assertiveness": 2,
+      "emotionalStability": 3,
+      "cynicism": 4,
+      "focusDiscipline": 5,
+      "confidence": 2,
+      "impulsiveness": 2
+    }
+  },
+  {
+    "name": "Brightney",
+    "traits": {
+      "expressiveHumor": 3,
+      "emotionalSensitivity": 5,
+      "externalWarmth": 8,
+      "socialEnergy": 6,
+      "assertiveness": 7,
+      "emotionalStability": 5,
+      "cynicism": 3,
+      "focusDiscipline": 10,
+      "confidence": 7,
+      "impulsiveness": 2
+    }
+  },
+  {
+    "name": "Brusha",
+    "traits": {
+      "expressiveHumor": 2,
+      "emotionalSensitivity": 8,
+      "externalWarmth": 4,
+      "socialEnergy": 3,
+      "assertiveness": 7,
+      "emotionalStability": 3,
+      "cynicism": 8,
+      "focusDiscipline": 8,
+      "confidence": 6,
+      "impulsiveness": 3
+    }
+  },
+  {
+    "name": "Connie",
+    "traits": {
+      "expressiveHumor": 8,
+      "emotionalSensitivity": 5,
+      "externalWarmth": 6,
+      "socialEnergy": 8,
+      "assertiveness": 7,
+      "emotionalStability": 5,
+      "cynicism": 6,
+      "focusDiscipline": 2,
+      "confidence": 8,
+      "impulsiveness": 9
+    }
+  },
+  {
+    "name": "Cosmo",
+    "traits": {
+      "expressiveHumor": 3,
+      "emotionalSensitivity": 9,
+      "externalWarmth": 10,
+      "socialEnergy": 5,
+      "assertiveness": 4,
+      "emotionalStability": 4,
+      "cynicism": 1,
+      "focusDiscipline": 6,
+      "confidence": 5,
+      "impulsiveness": 2
+    }
+  },
+  {
+    "name": "Finn",
+    "traits": {
+      "expressiveHumor": 9,
+      "emotionalSensitivity": 4,
+      "externalWarmth": 8,
+      "socialEnergy": 9,
+      "assertiveness": 6,
+      "emotionalStability": 7,
+      "cynicism": 2,
+      "focusDiscipline": 3,
+      "confidence": 8,
+      "impulsiveness": 8
+    }
+  },
+  {
+    "name": "Flutter",
+    "traits": {
+      "expressiveHumor": 6,
+      "emotionalSensitivity": 8,
+      "externalWarmth": 7,
+      "socialEnergy": 6,
+      "assertiveness": 5,
+      "emotionalStability": 2,
+      "cynicism": 5,
+      "focusDiscipline": 5,
+      "confidence": 4,
+      "impulsiveness": 6
+    }
+  },
+  {
+    "name": "Gigi",
+    "traits": {
+      "expressiveHumor": 7,
+      "emotionalSensitivity": 5,
+      "externalWarmth": 5,
+      "socialEnergy": 8,
+      "assertiveness": 6,
+      "emotionalStability": 6,
+      "cynicism": 3,
+      "focusDiscipline": 2,
+      "confidence": 7,
+      "impulsiveness": 8
+    }
+  },
+  {
+    "name": "Glisten",
+    "traits": {
+      "expressiveHumor": 6,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 7,
+      "socialEnergy": 9,
+      "assertiveness": 7,
+      "emotionalStability": 3,
+      "cynicism": 5,
+      "focusDiscipline": 9,
+      "confidence": 6,
+      "impulsiveness": 4
+    }
+  },
+  {
+    "name": "Goob",
+    "traits": {
+      "expressiveHumor": 6,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 9,
+      "socialEnergy": 9,
+      "assertiveness": 5,
+      "emotionalStability": 7,
+      "cynicism": 1,
+      "focusDiscipline": 4,
+      "confidence": 7,
+      "impulsiveness": 7
+    }
+  },
+  {
+    "name": "Looey",
+    "traits": {
+      "expressiveHumor": 8,
+      "emotionalSensitivity": 8,
+      "externalWarmth": 8,
+      "socialEnergy": 5,
+      "assertiveness": 3,
+      "emotionalStability": 3,
+      "cynicism": 4,
+      "focusDiscipline": 6,
+      "confidence": 3,
+      "impulsiveness": 5
+    }
+  },
+  {
+    "name": "Poppy",
+    "traits": {
+      "expressiveHumor": 7,
+      "emotionalSensitivity": 4,
+      "externalWarmth": 8,
+      "socialEnergy": 9,
+      "assertiveness": 7,
+      "emotionalStability": 6,
+      "cynicism": 1,
+      "focusDiscipline": 3,
+      "confidence": 9,
+      "impulsiveness": 8
+    }
+  },
+  {
+    "name": "RazzleDazzle",
+    "traits": {
+      "expressiveHumor": 7,
+      "emotionalSensitivity": 8,
+      "externalWarmth": 7,
+      "socialEnergy": 7,
+      "assertiveness": 5,
+      "emotionalStability": 2,
+      "cynicism": 6,
+      "focusDiscipline": 4,
+      "confidence": 5,
+      "impulsiveness": 6
+    }
+  },
+  {
+    "name": "Rodger",
+    "traits": {
+      "expressiveHumor": 4,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 8,
+      "socialEnergy": 6,
+      "assertiveness": 7,
+      "emotionalStability": 7,
+      "cynicism": 3,
+      "focusDiscipline": 9,
+      "confidence": 7,
+      "impulsiveness": 3
+    }
+  },
+  {
+    "name": "Scraps",
+    "traits": {
+      "expressiveHumor": 6,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 8,
+      "socialEnergy": 7,
+      "assertiveness": 5,
+      "emotionalStability": 4,
+      "cynicism": 4,
+      "focusDiscipline": 4,
+      "confidence": 6,
+      "impulsiveness": 6
+    }
+  },
+  {
+    "name": "Shrimpo",
+    "traits": {
+      "expressiveHumor": 1,
+      "emotionalSensitivity": 2,
+      "externalWarmth": 1,
+      "socialEnergy": 6,
+      "assertiveness": 10,
+      "emotionalStability": 1,
+      "cynicism": 10,
+      "focusDiscipline": 2,
+      "confidence": 9,
+      "impulsiveness": 9
+    }
+  },
+  {
+    "name": "Squirm",
+    "traits": {
+      "expressiveHumor": 2,
+      "emotionalSensitivity": 10,
+      "externalWarmth": 6,
+      "socialEnergy": 2,
+      "assertiveness": 1,
+      "emotionalStability": 1,
+      "cynicism": 6,
+      "focusDiscipline": 3,
+      "confidence": 1,
+      "impulsiveness": 3
+    }
+  },
+  {
+    "name": "Teagan",
+    "traits": {
+      "expressiveHumor": 3,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 10,
+      "socialEnergy": 6,
+      "assertiveness": 6,
+      "emotionalStability": 9,
+      "cynicism": 1,
+      "focusDiscipline": 9,
+      "confidence": 8,
+      "impulsiveness": 2
+    }
+  },
+  {
+    "name": "Tisha",
+    "traits": {
+      "expressiveHumor": 2,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 6,
+      "socialEnergy": 5,
+      "assertiveness": 7,
+      "emotionalStability": 3,
+      "cynicism": 5,
+      "focusDiscipline": 10,
+      "confidence": 7,
+      "impulsiveness": 2
+    }
+  },
+  {
+    "name": "Toodles",
+    "traits": {
+      "expressiveHumor": 7,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 7,
+      "socialEnergy": 8,
+      "assertiveness": 6,
+      "emotionalStability": 5,
+      "cynicism": 3,
+      "focusDiscipline": 4,
+      "confidence": 7,
+      "impulsiveness": 7
+    }
+  },
+  {
+    "name": "Yatta",
+    "traits": {
+      "expressiveHumor": 7,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 8,
+      "socialEnergy": 9,
+      "assertiveness": 7,
+      "emotionalStability": 3,
+      "cynicism": 2,
+      "focusDiscipline": 3,
+      "confidence": 8,
+      "impulsiveness": 10
+    }
+  },
+  {
+    "name": "Dandy",
+    "traits": {
+      "expressiveHumor": 5,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 6,
+      "socialEnergy": 6,
+      "assertiveness": 7,
+      "emotionalStability": 4,
+      "cynicism": 6,
+      "focusDiscipline": 7,
+      "confidence": 6,
+      "impulsiveness": 5
+    }
+  },
+  {
+    "name": "Dyle",
+    "traits": {
+      "expressiveHumor": 2,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 7,
+      "socialEnergy": 3,
+      "assertiveness": 7,
+      "emotionalStability": 9,
+      "cynicism": 3,
+      "focusDiscipline": 10,
+      "confidence": 7,
+      "impulsiveness": 1
+    }
+  },
+  {
+    "name": "Astro",
+    "traits": {
+      "expressiveHumor": 4,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 7,
+      "socialEnergy": 3,
+      "assertiveness": 5,
+      "emotionalStability": 8,
+      "cynicism": 6,
+      "focusDiscipline": 8,
+      "confidence": 6,
+      "impulsiveness": 2
+    }
+  },
+  {
+    "name": "Bassie",
+    "traits": {
+      "expressiveHumor": 2,
+      "emotionalSensitivity": 10,
+      "externalWarmth": 7,
+      "socialEnergy": 2,
+      "assertiveness": 3,
+      "emotionalStability": 1,
+      "cynicism": 5,
+      "focusDiscipline": 6,
+      "confidence": 1,
+      "impulsiveness": 4
+    }
+  },
+  {
+    "name": "Bobette",
+    "traits": {
+      "expressiveHumor": 7,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 9,
+      "socialEnergy": 8,
+      "assertiveness": 5,
+      "emotionalStability": 4,
+      "cynicism": 2,
+      "focusDiscipline": 7,
+      "confidence": 6,
+      "impulsiveness": 5
+    }
+  },
+  {
+    "name": "Gourdy",
+    "traits": {
+      "expressiveHumor": 6,
+      "emotionalSensitivity": 8,
+      "externalWarmth": 8,
+      "socialEnergy": 7,
+      "assertiveness": 4,
+      "emotionalStability": 4,
+      "cynicism": 2,
+      "focusDiscipline": 5,
+      "confidence": 3,
+      "impulsiveness": 6
+    }
+  },
+  {
+    "name": "Pebble",
+    "traits": {
+      "expressiveHumor": 5,
+      "emotionalSensitivity": 5,
+      "externalWarmth": 8,
+      "socialEnergy": 7,
+      "assertiveness": 6,
+      "emotionalStability": 5,
+      "cynicism": 2,
+      "focusDiscipline": 2,
+      "confidence": 7,
+      "impulsiveness": 7
+    }
+  },
+  {
+    "name": "Shelly",
+    "traits": {
+      "expressiveHumor": 7,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 9,
+      "socialEnergy": 9,
+      "assertiveness": 6,
+      "emotionalStability": 4,
+      "cynicism": 2,
+      "focusDiscipline": 4,
+      "confidence": 6,
+      "impulsiveness": 8
+    }
+  },
+  {
+    "name": "Sprout",
+    "traits": {
+      "expressiveHumor": 3,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 8,
+      "socialEnergy": 3,
+      "assertiveness": 7,
+      "emotionalStability": 6,
+      "cynicism": 3,
+      "focusDiscipline": 7,
+      "confidence": 7,
+      "impulsiveness": 3
+    }
+  },
+  {
+    "name": "Vee",
+    "traits": {
+      "expressiveHumor": 5,
+      "emotionalSensitivity": 5,
+      "externalWarmth": 6,
+      "socialEnergy": 6,
+      "assertiveness": 8,
+      "emotionalStability": 6,
+      "cynicism": 6,
+      "focusDiscipline": 9,
+      "confidence": 7,
+      "impulsiveness": 3
+    }
+  },
+  {
+    "name": "Cocoa",
+    "traits": {
+      "expressiveHumor": 6,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 10,
+      "socialEnergy": 8,
+      "assertiveness": 6,
+      "emotionalStability": 5,
+      "cynicism": 1,
+      "focusDiscipline": 7,
+      "confidence": 7,
+      "impulsiveness": 6
+    }
+  },
+  {
+    "name": "Eggson",
+    "traits": {
+      "expressiveHumor": 4,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 8,
+      "socialEnergy": 5,
+      "assertiveness": 5,
+      "emotionalStability": 8,
+      "cynicism": 2,
+      "focusDiscipline": 7,
+      "confidence": 8,
+      "impulsiveness": 3
+    }
+  },
+  {
+    "name": "Flyte",
+    "traits": {
+      "expressiveHumor": 5,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 9,
+      "socialEnergy": 7,
+      "assertiveness": 6,
+      "emotionalStability": 7,
+      "cynicism": 2,
+      "focusDiscipline": 6,
+      "confidence": 7,
+      "impulsiveness": 5
+    }
+  },
+  {
+    "name": "Eclipse",
+    "traits": {
+      "expressiveHumor": 6,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 7,
+      "socialEnergy": 9,
+      "assertiveness": 8,
+      "emotionalStability": 2,
+      "cynicism": 3,
+      "focusDiscipline": 3,
+      "confidence": 8,
+      "impulsiveness": 9
+    }
+  },
+  {
+    "name": "Ribecca",
+    "traits": {
+      "expressiveHumor": 5,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 8,
+      "socialEnergy": 6,
+      "assertiveness": 7,
+      "emotionalStability": 7,
+      "cynicism": 2,
+      "focusDiscipline": 7,
+      "confidence": 8,
+      "impulsiveness": 4
+    }
+  },
+  {
+    "name": "Soulvester",
+    "traits": {
+      "expressiveHumor": 3,
+      "emotionalSensitivity": 6,
+      "externalWarmth": 7,
+      "socialEnergy": 5,
+      "assertiveness": 8,
+      "emotionalStability": 5,
+      "cynicism": 3,
+      "focusDiscipline": 8,
+      "confidence": 7,
+      "impulsiveness": 3
+    }
+  },
+  {
+    "name": "Coal",
+    "traits": {
+      "expressiveHumor": 2,
+      "emotionalSensitivity": 4,
+      "externalWarmth": 5,
+      "socialEnergy": 4,
+      "assertiveness": 6,
+      "emotionalStability": 6,
+      "cynicism": 7,
+      "focusDiscipline": 3,
+      "confidence": 6,
+      "impulsiveness": 5
+    }
+  },
+  {
+    "name": "Ginger",
+    "traits": {
+      "expressiveHumor": 3,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 8,
+      "socialEnergy": 3,
+      "assertiveness": 3,
+      "emotionalStability": 5,
+      "cynicism": 2,
+      "focusDiscipline": 6,
+      "confidence": 3,
+      "impulsiveness": 3
+    }
+  },
+  {
+    "name": "Rudie",
+    "traits": {
+      "expressiveHumor": 7,
+      "emotionalSensitivity": 5,
+      "externalWarmth": 9,
+      "socialEnergy": 9,
+      "assertiveness": 6,
+      "emotionalStability": 7,
+      "cynicism": 1,
+      "focusDiscipline": 4,
+      "confidence": 8,
+      "impulsiveness": 7
+    }
+  }
+]
