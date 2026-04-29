@@ -13,5 +13,50 @@
       "confidence": 10,
       "impulsiveness": 4
     }
+  },
+  {
+    "name": "Paws",
+    "traits": {
+      "expressiveHumor": 8
+      "emotionalSensitivity": 7
+      "externalWarmth": 7
+      "socialEnergy": 3
+      "assertiveness": 3
+      "emotionalStability": 5
+      "cynicism": 6
+      "focusDiscipline": 3
+      "confidence": 3
+      "impulsiveness": 8
+    }
+  },
+  {
+    "name": "Testified",
+    "traits": {
+      "expressiveHumor": 7
+      "emotionalSensitivity": 2
+      "externalWarmth": 2
+      "socialEnergy": 3
+      "assertiveness": 10
+      "emotionalStability": 8
+      "cynicism": 9
+      "focusDiscipline": 7
+      "confidence": 6
+      "impulsiveness": 4
+    }
+  },
+  {
+    "name": "Faye",
+    "traits": {
+      "expressiveHumor": 7
+      "emotionalSensitivity": 10
+      "externalWarmth": 5
+      "socialEnergy": 4
+      "assertiveness": 2
+      "emotionalStability": 1
+      "cynicism": 9
+      "focusDiscipline": 2
+      "confidence": 1
+      "impulsiveness": 9
+    }
   }
 ]
