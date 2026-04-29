@@ -58,5 +58,20 @@
       "confidence": 1,
       "impulsiveness": 9
     }
+  },
+  {
+    "name": "Jellyfish",
+    "traits": {
+      "expressiveHumor": 10,
+      "emotionalSensitivity": 7,
+      "externalWarmth": 4,
+      "socialEnergy": 6,
+      "assertiveness": 5,
+      "emotionalStability": 6,
+      "cynicism": 4,
+      "focusDiscipline": 3,
+      "confidence": 5,
+      "impulsiveness": 8
+    }
   }
 ]
